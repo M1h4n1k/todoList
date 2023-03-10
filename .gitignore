@@ -1,0 +1,46 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python dependencies
+__pycache__/
+venv/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Vue.js build artifacts
+/dist/
+
+# FastAPI build artifacts
+__pycache__/
+.env
+.env.*
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Pytest files
+.pytest_cache/
+pytest.ini
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Other build artifacts
+.DS_Store
+Thumbs.db
