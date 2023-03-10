@@ -1,7 +1,7 @@
 <template>
     <div class="w-1/2 h-fit rounded border-2">
         <div class="pl-2 flex items-center h-10 bg-gray-100 rounded ">
-            Add event
+            Add task
         </div>
         <div class="px-7 py-4 space-y-2">
             <input v-model="title" class="w-full h-8 indent-2.5 rounded border border-[#ddd]" type="text" placeholder="Task title">
